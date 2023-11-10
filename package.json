@@ -1,0 +1,11 @@
+{
+  "name": "emptracker",
+  "version": "1.0.0",
+  "description": "a command-line application from scratch to manage a company's employee database, using Node.js, Inquirer, and MySQL.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Miranda Mendoza",
+  "license": "ISC"
+}
