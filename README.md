@@ -41,7 +41,7 @@ Select the desired options from the menu and interact with the application.
 ## Video Walkthrough
 For a demonstration of the application's functionality and known issue, please refer to the walkthrough video.
 
-
+file:///Users/mirandamendoza/Downloads/Untitled_%20Nov%2014%202023%201_39%20AM.webm
 
 ## Github repo 
 https://github.com/lafrefre/empTracker
