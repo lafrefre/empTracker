@@ -39,6 +39,7 @@ const promptUser = () => {
                     break;
                 case 'View all employees':
                     viewEmployee();
+                    //not working part
                 case 'Quit':
                     connection.end();
                     break;
@@ -77,4 +78,24 @@ const viewEmployee = () => {
         promptUser();
     });
 }
+
+// Add a department
+
+// Add a role
+
+// Add an employee
+
+// Update an employee role
+
+// Update an employee manager
+
+// View employees by manager
+
+// Delete a department
+
+// Delete a role
+
+// Delete an employee
+
+
 

@@ -21,4 +21,43 @@ To run the application, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone 
+   git clone https://github.com/lafrefre/empTracker
+   
+## Install dependencies:
+
+Copy code
+npm install
+Set up your MySQL database:
+
+Create a database using the provided db.sql file.
+Update database credentials:
+
+Open index.js and replace the connection details with your MySQL database credentials.
+Run the application:
+
+node index.js
+Select the desired options from the menu and interact with the application.
+
+## Video Walkthrough
+For a demonstration of the application's functionality and known issue, please refer to the walkthrough video.
+
+
+
+## Github repo 
+https://github.com/lafrefre/empTracker
+
+## Technologies Used
+Node.js
+
+Inquirer
+
+MySQL2
+
+## Contributing
+Contributions are welcome! If you encounter any issues or have suggestions for improvement, feel free to open an issue or submit a pull request.
+
+## License
+This project is licensed under the MIT License.
+
+
+
